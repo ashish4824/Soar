@@ -21,7 +21,7 @@
 
 
   
-![Settings Preview](https://res.cloudinary.com/dnjcu5zlk/image/upload/v1740633032/Dashbord.png)
+![Settings Preview](https://res.cloudinary.com/dnjcu5zlk/image/upload/v1740632602/shoes.png)
 
 ## Installation
 
