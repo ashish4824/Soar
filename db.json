@@ -1,0 +1,51 @@
+
+{
+  "user": {
+    "name": "Livia Bator",
+    "title": "CEO"
+  },
+  "transactions": [
+    {
+      "id": 1,
+      "icon": "credit_card",
+      "title": "Deposit from my Card",
+      "date": "28 January 2021",
+      "amount": "-$850",
+      "amountClass": "text-red-500"
+    },
+    {
+      "id": 2,
+      "icon": "paypal",
+      "title": "Deposit Paypal",
+      "date": "25 January 2021",
+      "amount": "+$2,500",
+      "amountClass": "text-green-500"
+    },
+    {
+      "id": 3,
+      "icon": "user_circle",
+      "title": "Jemi Wilson",
+      "date": "21 January 2021",
+      "amount": "+$5,400",
+      "amountClass": "text-green-500"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "name": "Visa",
+      "number": "**** **** **** 1234",
+      "expiry": "12/23"
+    },
+    {
+      "id": 2,
+      "name": "MasterCard",
+      "number": "**** **** **** 5678",
+      "expiry": "11/24"
+    }
+  ],
+  "chartData": {
+    "balanceHistory": [1000, 1200, 900, 1500, 1300],
+    "transactionHistory": [200, 300, 400, 500, 600]
+  }
+}

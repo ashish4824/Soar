@@ -1,0 +1,31 @@
+/* @import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css"; */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::root {
+  background-color: rgb(243 244 246 / var(--tw-bg-opacity, 1));
+}
+/* Width of the scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px; /* for horizontal scrollbar */
+}
+
+/* Track (background) */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+/* Handle (draggable part) */
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
