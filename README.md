@@ -13,10 +13,13 @@
 
 ### User Profile Management## Running the Backend
 
-
-## Preview
+## Dashboard Preview
 
 ![Dashboard Preview](https://res.cloudinary.com/dnjcu5zlk/image/upload/v1740632446/shoes.png)
+  
+## Preview
+
+
   
 ![Settings Preview](https://res.cloudinary.com/dnjcu5zlk/image/upload/v1740632602/shoes.png)
 
