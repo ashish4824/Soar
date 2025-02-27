@@ -52,7 +52,7 @@ const SideBar = ({ sidebar, open }) => {
           size={30}
           className={`absolute right-4 top-2 cursor-pointer  ${open ? "block xl:hidden 2xl:hidden lg:block md:block" : "md:hidden xl:hidden 2xl:hidden lg:block block"}`}/>
         <h2 className={`text-2xl text-center mt-3 ${open ? "block" : "hidden"}`}>
-          <span className="font-bold text-black">Sora Task</span>
+          <span className="font-bold text-black">Soar Task</span>
         </h2>
         <nav>
           <ul className="py-4">

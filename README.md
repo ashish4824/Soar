@@ -18,6 +18,11 @@ To start the backend server, use the following command:
 ```bash
 npm run start
 ```
+To start the complete application, use the following command:
+
+```bash
+npm run dev
+```
 
 
 ### User Profile Management

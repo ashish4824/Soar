@@ -9,15 +9,15 @@ import Setting from "./components/Pages/Setting/Setting";
 function App() {
   const router = createBrowserRouter([
     {
-      path: "/", // Base path for all routes
+      path: "/", 
       element: <Root />,
       children: [ 
         {
-          path: "/settings", // New route for settings page
+          path: "/settings",
           element: <Setting/>
         },
         {
-          index: true, // Default component when "/" is visited
+          index: true, 
           element: <Index />,
         },
         {
