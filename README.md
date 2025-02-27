@@ -15,13 +15,13 @@
 
 ## Dashboard Preview
 
-![Dashboard Preview](https://res.cloudinary.com/dnjcu5zlk/image/upload/v1740632446/shoes.png)
+![Dashboard Preview](https://res.cloudinary.com/dnjcu5zlk/image/upload/v1740633032/Dashbord.png)
   
 ## Preview
 
 
   
-![Settings Preview](https://res.cloudinary.com/dnjcu5zlk/image/upload/v1740632602/shoes.png)
+![Settings Preview](https://res.cloudinary.com/dnjcu5zlk/image/upload/v1740633032/Dashbord.png)
 
 ## Installation
 
